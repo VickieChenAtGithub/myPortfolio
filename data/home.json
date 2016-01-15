@@ -68,7 +68,7 @@
 		{			
 			"class":"six-slide",
 			"subject":"Sugarcrm",
-			"description":"SugarCRM, a Customer Relationship Management open source, is Customer Relationship Management for community engagement and cancer control",	
+			"description":"SugarCRM, an open source, is Customer Relationship Management for community engagement and cancer control",	
 			"responsibilities":"installed Sugarcrm application from online open source to our server, integrated with UAMS Central Authentication Service, imported modules, and modified/developed custom functions",				
 			"imgURL":"img/bg2.jpg",
 			"detailLink":"sugarcrm",			"screenshot":["sugarcrm1.png","sugarcrm2.png","sugarcrm3.png","sugarcrm4.png","sugarcrm5.png"]
@@ -130,7 +130,7 @@
 		},
 		{
 			"id":"interest",
-			"title":"Interests",
+			"title":"Interests:",
 			"content":"One of my main hobbies involves solving articulate and integration problems through web development and programming, especially interested in building user friendly applications and learning new web technologies. I am planning to do more work on in the near future especially in the following areas: ",
 			"list":[
 				"Jquery Frameworks such as Angular.js, Node.js, Jasmine.js,etc",
