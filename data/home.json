@@ -2,13 +2,13 @@
 	"home": [
 		{
 			"subject":"About Me",
-			"description":"Hi, I'm Vickie, a developer interested in building user friendly web apps/tools. You can find out more about me, have a look at some things I've built. I've just started buidling this fortolio in 2016. There are still more stuff I would like to add on it, any advise would be appriciated! Hope you all have a blessed year a head of you!",					
+			"description":"Hi, I'm Vickie, a senior web developer fascinated with building user friendly web and mobile applications/tools. You can find out more about me here. Please have a look at some things I've build. I've just started building this portfolio in 2016 and there are still more stuff I would like to add. Any advice would be appreciated!",					
 			"imgURL":"img/profilepic.jpg",
 			"detailLink":"aboutme"
 		},
 		{
 			"subject":"Skills",
-			"description":"Proficiency in designing and developing PHP web applications from start to end with web based technologies in LAMPP environment (Full stack). I am also experience in developing on front ends by using HTML5, XML, JQUERY MOBILE, and JAVASCRIPT and relation database such as Mysql, Postgressql, etc.",		
+			"description":"Proficient in developing and designing PHP web applications from start to end with web based technologies in LAMPP environment (Full stack). Also experience in developing front ends web applications with HTML5, XML, JQUERY MOBILE, and JAVASCRIPT.  Relation database experiences in Mysql, Postgressql, and MSSQL.",		
 			"imgURL":"img/skills.jpg",
 			"detailLink":"skills"
 		},
@@ -85,7 +85,7 @@
 		{			
 			"class":"eight-slide",
 			"subject":"Others",
-			"description":"My Other projects on previous works and school by using Html, Javascript, PHP, JAVA, JSP, AND .NET",
+			"description":"My Other projects on previous works and schools by using Html, Javascript, PHP, JAVA, JSP, AND .NET",
 			"responsibilities":"Developing, maintaining, and troubleshooting of database-driven web applications that utilize Web technologies (PHP, JAVA, JSP, .NET, JAVASCRIPT, JQUERY, JSON, AJAX, XML, etc.)",		
 			"imgURL":"img/bg8.jpg",
 			"detailLink":"others",			
@@ -96,35 +96,37 @@
 		{
 			"id":"aboutme",
 			"title":"About Me",
-			"content":"I serve as the Sr. Client Server Web Developer for the Informatics Core of the Translational Research Institute and Cancer Institute Informatics Core at University of Arkansas for Medical Sciences. I am developing, integrated, and implemented several caBIG and other clinical systems to create an open source clinical and translational research infrastructure including clinical trials management, Core management, Adverse Events, Family History, and Limesurveys, etc. My work involves building and enhancing enterprise software applications, programming and customization related to the caBIG initiatives, and developing and maintaining open source clinical research informatics tool. With an MS degree in Computer and Information Science, I have a through understanding of the full life cycle of a software development project. I also have experience in learning and excelling at new technologies as needed. The key strengths that I possess for success in this position include, but are not limited to the following:",
+			"content":"I am currently employed as a Senior Client Server Web Developer at UAMS.  My main job includes developing and supporting applications for the Translational, Cancer and Informatics Core Research Institute.  I have implemented and integrated CABIG and clinical applications to an open source infrastructure supporting clinical research and trials management.  One of the main point of my works involves building and enhancing enterprise software applications including CABIG initiatives, at the same time developing and maintaining open source clinical research informatics tools.  I graduated with a Master’s Degree in Computer and Information Science.  Through my work, I have developed a full and thorough understanding of a software development cycle.  I am very interested and excited in learning new concepts, skills and technologies.  Below are some of my key strength and skills: ",
 			"list":[
-				"Proficiency in designing and developing PHP web applications from start to end with web based technologies in LAMPP environment",
-				"Experience in designing and developing mobile device native applications by using HTML5, XML, JQUERY MOBILE, and JAVASCRIPT",
-				"Experience in developing from exist applications with JAVA in Spring and Struts",
+				"Proficient in designing and developing PHP web applications from start to end with web based technologies in LAMPP environment",
+				"Experience in designing and developing mobile device native applications with HTML5, XML, JQUERY MOBILE, and JAVASCRIPT",
+				"Working in JAVA with Spring and Struts frameworks",
 				"Database experience with MYSQL, POSTGRESQL, and MSSQL",
-				"Web server environment installation and configuration experience in APACHE, TOMCAT, JBOSS, ANT, MAVEN, IIS, and GLASSFISH",
-				"Range of skills includes programming, shell scripting, web-designing, networking, and load testing",
-				"Depth understanding and implementation of Software Development Life Cycle i.e. requirements definition, Analysis, Design, and Implementation",
-				"Ability to manage and support in a fast paced, dynamic, and often intense work environment on several projects simultaneously with strong organizational and analytical skills",
-				"Excellent track record of successful completion under tight deadlines"
+				"Web server installation and configuration with APACHE, TOMCAT, JBOSS, ANT, MAVEN, IIS, and GLASSFISH",
+				"Other skills involving programming, shell scripting, web designs, networking, and load balance testing",
+				"In depth understanding and implementation of Software Development Life Cycle i.e. requirements definition, Analysis, Design, and Implementation",
+				"Ability to manage and support several projects in a fast paced, dynamic, and often intense work environment",
+				"Strong organizational and analytical skills",
+				"Able to work well under stress with tight deadlines",
+				"Work well with others in a team environment"
 				],
 			"imgURL":"img/uams.jpg"			
 		},
 		{
 			"id":"skills",
 			"title":"Skills",
-			"content":"Proficiency in designing and developing PHP web applications from start to end with web based technologies in LAMPP environment (Full stack). I am also experience in developing on front ends by using HTML5, XML, JQUERY MOBILE, and JAVASCRIPT and relation database such as Mysql, Postgressql, etc.",	
+			"content":"Proficient in developing and designing PHP web applications from start to end with web based technologies in LAMPP environment (Full stack). Also experience in developing front ends web applications with HTML5, XML, JQUERY MOBILE, and JAVASCRIPT.  Relation database experiences in Mysql, Postgressql, and MSSQL.",	
 			"list":[
 				"Operating System: Windows XP/2003/2008/2012, Linux Redhat, Solaris 10 Unix",
-				"Web Server (Installing/administrating) : Apache, Tomcat, JBoss, IIS 6, Glassfish",
-				"Framework: Zend, Spring MVC, Struts, Mobione",
-				"Database experience with MYSQL, POSTGRESQL, and MSSQL",
+				"Web Servers (Installation and administration) : Apache, Tomcat, JBoss, IIS 6, Glassfish",
+				"Frameworks: Zend, Spring MVC, Struts, Mobione",
+				"Database experiences with MYSQL, POSTGRESQL, and MSSQL",
 				"Programming Languages: PHP, Java, Ruby, .NET",
-				"Scripting: JavaScript, Ajax, JQuery, Json, Unix Shell scripting, Windows batch scripting",
-				"Markup: HTML, HTML5, CSS, XML, XSLT",
+				"Scripting languages: JavaScript, Ajax, JQuery, Json, Unix Shell scripting, Windows batch scripting",
+				"Markups: HTML, HTML5, CSS, XML",
 				"Build Tools: Ant, Maven",
-				"Networking: Concepts, Security, SSL certificates, Troubleshooting",
-				"Tools: Notepad++, Putty, TortoiseSVN, Github, PhpMyadmin, Mysql Work Bench, Zend, NetBeans, JCreator, MS Visual Studio, CVS, GIMP"
+				"Networks: Concepts, Security, SSL certificates, and Troubleshooting issues",
+				"Other Tools: Notepad++, Putty, TortoiseSVN, Github, PhpMyadmin, Mysql Work Bench, Zend, NetBeans, JCreator, MS Visual Studio, CVS, GIMP"
 			],			
 			"imgURL":"img/skills.jpg"
 		},
