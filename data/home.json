@@ -71,7 +71,8 @@
 			"description":"SugarCRM, a Customer Relationship Management open source, is Customer Relationship Management for community engagement and cancer control",	
 			"responsibilities":"installed Sugarcrm application from online open source to our server, integrated with UAMS Central Authentication Service, imported modules, and modified/developed custom functions",				
 			"imgURL":"img/bg2.jpg",
-			"detailLink":"sugarcrm",			"screenshot":["sugarcrm1.png","sugarcrm2.png","sugarcrm3.png","sugarcrm4.png","sugarcrm5.png"]
+			"detailLink":"sugarcrm",			
+			"screenshot":["sugarcrm1.png","sugarcrm2.png","sugarcrm3.png","sugarcrm4.png","sugarcrm5.png"]
 		},
 		{			
 			"class":"seven-slide",
@@ -131,10 +132,10 @@
 		{
 			"id":"interest",
 			"title":"Interest In",
-			"content":"I am interested in a customer-focused, articulate and integration problem solving skills Web programming position, especially interested in building user friendly applications and learning new web technologies. I am planing to do work on more in the nearly furture include, but are not limited to the following: ",
+			"content":"I am interested in a customer-focused, articulate and integration problem solving skills Web programming position.Especially interested in building user friendly applications and learning new web technologies. I am planning to do more work on in the near future especially in the following areas:"
 			"list":[
-				"Work more on Jquery Frameworks suck as Angular.js, Node.js, Jasmine.js,etc",
-				"Mobile applicationss",
+				"Jquery Frameworks such as Angular.js, Node.js, Jasmine.js,etc",
+				"Mobile applications",
 				"Management Skills"		
 			],				
 			"imgURL":"img/want2do.jpg"
