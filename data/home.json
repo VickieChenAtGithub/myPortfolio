@@ -96,7 +96,7 @@
 		{
 			"id":"aboutme",
 			"title":"About Me",
-			"content":"I am currently employed as a Senior Client Server Web Developer at UAMS.  My main job includes developing and supporting applications for the Translational, Cancer and Informatics Core Research Institute.  I have implemented and integrated CABIG and clinical applications to an open source infrastructure supporting clinical research and trials management.  One of the main point of my works involves building and enhancing enterprise software applications including CABIG initiatives, at the same time developing and maintaining open source clinical research informatics tools.  I graduated with a Master’s Degree in Computer and Information Science.  Through my work, I have developed a full and thorough understanding of a software development cycle.  I am very interested and excited in learning new concepts, skills and technologies.  Below are some of my key strength and skills: ",
+			"content":"I am currently employed as a Senior Client Server Web Developer at UAMS.  My main job includes developing and supporting applications for the Translational, Cancer and Informatics Core Research Institute.  I have implemented and integrated CABIG and clinical applications to an open source infrastructure supporting clinical research and trials management.  One of the main point of my works involves building and enhancing enterprise software applications including CABIG initiatives, at the same time developing and maintaining open source clinical research informatics tools.  I graduated with a Master's Degree in Computer and Information Science.  Through my work, I have developed a full and thorough understanding of a software development cycle.  I am very interested and excited in learning new concepts, skills and technologies.  Below are some of my key strength and skills: ",
 			"list":[
 				"Proficient in designing and developing PHP web applications from start to end with web based technologies in LAMPP environment",
 				"Experience in designing and developing mobile device native applications with HTML5, XML, JQUERY MOBILE, and JAVASCRIPT",
@@ -115,7 +115,7 @@
 		{
 			"id":"skills",
 			"title":"Skills",
-			"content":"Proficient in developing and designing PHP web applications from start to end with web based technologies in LAMPP environment (Full stack). Also experience in developing front ends web applications with HTML5, XML, JQUERY MOBILE, and JAVASCRIPT.  Relation database experiences in Mysql, Postgressql, and MSSQL.",	
+			"content":"Proficient in developing and designing PHP web applications from start to end with web based technologies in LAMPP environment (Full stack). Also experience in developing front ends web applications with HTML5, XML, JQUERY MOBILE, JAVASCRIPT.  Relation database experiences in Mysql, Postgressql, and MSSQL.",	
 			"list":[
 				"Operating System: Windows XP/2003/2008/2012, Linux Redhat, Solaris 10 Unix",
 				"Web Servers (Installation and administration) : Apache, Tomcat, JBoss, IIS 6, Glassfish",
@@ -144,7 +144,7 @@
 		{
 			"id":"work",
 			"title":"Employment History",
-			"content":"I have been working as a developer Since 2008. I am developing, integrated, and implemented several web applications. My work involves building and enhancing enterprise software applications, programming and customization related to the caBIG initiatives, and developing and maintaining open source clinical research informatics tool. Below is my employment history related to IT fields. My resume is avaliable for downloading on the menu bar if you would like to know more details about what I have done on my works",
+			"content":"I have been working as a developer Since 2008. I've developed, integrated, and implemented several web applications. My work involves building and enhancing enterprise software applications, programming and customization tools related to the caBIG initiatives, and developing and maintaining open sources for clinical research informatics. Below is my employment history. My resume is also avaliable for downloading from the menu bar.",
 			"list":[
 				"Sr. Client Server Web Developer, October 2010 ~ present at University of Arkansas for Medical Sciences",
 				"Programmer Analyst Consultant, April 2010 ~ September 2010 at Twin Med LLC",
