@@ -42,7 +42,7 @@
 		{			
 			"class":"third-slide",
 			"subject":"Limesurvey in National Children Study",
-			"description":"LimeSurvey is an open source. It is a robust, user-friendly application for survey data collection which allows the survey administrator to use images in conjunction with surveys and can also identify duplicate and missing data. Enables data-collectors to quickly deliver questionnaires to respondents, collect responses, and analyze or export results in various formats. In addition to a large range of question types and presentation methods, allows for participant management through tokens and branching logic utilizing conditional questions. The Question-by-Question functionality associated with each survey, as well as the Self-Administered Questionnaire, SAQ, and associated evaluation, are all fully functional.",	
+			"description":"LimeSurvey is an open source for survey data collection which enables data-collectors to quickly deliver questionnaires to respondents, collect responses, and analyze or export results in various formats. In addition to a large range of question types and presentation methods, allows for participant management through tokens and branching logic utilizing conditional questions. The Question-by-Question functionality associated with each survey, as well as the Self-Administered Questionnaire, SAQ, and associated evaluation, are all fully functional.",	
 			"responsibilities":"Install and setup Limesurvey application instances on multi-servers along with CRIS application integrations. Created adaptive plug-in software components for the National Children's Study.",				
 			"imgURL":"img/bg5.jpg",
 			"detailLink":"ls",			
