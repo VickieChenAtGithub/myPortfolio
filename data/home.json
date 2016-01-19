@@ -28,7 +28,8 @@
 			"imgURL":"img/bg1.jpg",
 			"detailLink":"aers",
 			"screenshot":["aers1.png","aers2.png","aers3.png","aers4.png","aers5.png","aers6.png","aers7.png","aers8.png","aers9.png","aers10.png","aers11.png","aers12.png","aers13.png","aers14.png","aers15.png","aers16.png","aers17.png"],
-			"docs":"AERSDOC.pdf"
+			"docs":"AERSDOC.pdf",
+			"externalLinks":[{"subject":"Publication","link":"https://www.researchgate.net/publication/283951230_An_adverse_event_capture_and_management_system_for_cancer_studies"}]
 		},
 		{
 			"class":"second-slide",
