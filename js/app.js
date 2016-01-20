@@ -36,8 +36,8 @@ $(document).ready(function (){
 	$('#navbar').tab();
 	$('[data-toggle="tooltip"]').tooltip(); 
 	
-	/*document.onmousedown=disableclick;
-	status="Right Click Disabled";*/
+	document.onmousedown=disableclick;
+	status="Right Click Disabled";
 	
 	//show google map
 	$('#showmap').on('shown.bs.tab', function(event){	
