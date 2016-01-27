@@ -15,8 +15,7 @@ $(document).ready(function (){
 		url:'res/getVisitorInfo.php?long='+visitorinfo['longitude']+"&lat="+visitorinfo['latitude'],
 		success: function(data) {
 			visitorinfo['count'] = data.count;
-			visitorinfo['ip'] = data.ip;
-			console.log(data);			
+			visitorinfo['ip'] = data.ip;				
 		}
 	});
 	
