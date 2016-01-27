@@ -10,7 +10,16 @@ $(document).ready(function (){
 			'latitude': google.loader.ClientLocation.latitude    
 		};
 	};  
-		
+	
+	$.ajax({
+		url:'res/getVisitorInfo.php?long='+visitorinfo['longitude']+"&lat="+visitorinfo['latitude'],
+		success: function(data) {
+			visitorinfo['count'] = data.count;
+			visitorinfo['ip'] = data.ip;
+			console.log(data);			
+		}
+	});
+	
 	// Add smooth scrolling to all links in navbar link
    $("#navbar a, .details").on('click', function(event) { 
 		if(this.hash.indexOf("#")==0){
@@ -55,7 +64,6 @@ $(document).ready(function (){
 		var previoustab = $(event.relatedTarget).text();  
 		//console.log("previous is "+previoustab+" and now is "+activetab);
 	});
-		
 });
 
 function showProject(obj){
@@ -131,13 +139,57 @@ var myApp = angular.module('myApp',[]);
 
 myApp.controller('homeController', function($scope,$http){
 	$http.get('data/home.json').success(function(data) {
+	//$http.get("data/home.json").then(function (response) {
 		$scope.home=data;	
 		$scope.$watch('home', function(newValue,oldValue){
 			//console.log("new value is "+newValue);
 	   });
-	});
+	});		
 });
 
+myApp.controller('headerController', function($scope, $location,$timeout, $interval, myService){
+	var myUrl = $location.absUrl();
+	/*
+	$scope.myHeader = "Vickie Chen's Portfolio";
+    $timeout(function () {
+        $scope.myHeader = "How are you today?";
+    }, 2000);
+	*/
+	$scope.theTime = new Date().toLocaleTimeString();
+    $interval(function () {
+        $scope.theTime = new Date().toLocaleTimeString();
+    }, 1000);	
+});
+
+myApp.service('myService', function myService() { 	
+	this.getipcount = function() {
+		
+	}	
+});
+	
 function disableclick(event){
   if(event.button==2) return false;    
 }
+
+/*
+function saveContent2File(content, filename){
+    var dlg = false;
+    with(document){
+     ir=createElement('iframe');
+     ir.id='ifr';
+     ir.location='about.blank';
+     ir.style.display='none';
+     body.appendChild(ir);
+      with(getElementById('ifr').contentWindow.document){
+           open("text/plain", "replace");
+           charset = "utf-8";
+           write(content);
+           close();
+           document.charset = "utf-8";
+           dlg = execCommand('SaveAs', false, filename);
+       }
+       body.removeChild(ir);
+     }
+    return dlg;
+}
+*/

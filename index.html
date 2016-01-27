@@ -20,7 +20,7 @@
   <body ng-app="myApp" id="myApp" data-spy="scroll" data-target=".navbar" data-offset="60" oncontextmenu="return false">
 	<!-- NAVBAR -->
     <div class="navbar-wrapper">
-      <div class="container">
+      <div class="container"  ng-controller="headerController">
 
         <nav class="navbar navbar-inverse navbar-static-top">
           <div class="container">
@@ -50,14 +50,14 @@
 					<li><a href="https://www.linkedin.com/in/vickie-chen-5a3200b7" target="_blank">Linkedin</a></li>
 					<!--<li><a href="https://github.com/VickieChenAtGithub/myPortfolio/" target="_blank">Source Code</a></li>-->
 					<!--<li><a href="data/WanchiChen_Resume_2016.doc" download="WanchiChen_Resume" >Download My Resume</a></li> -->     
-					<li><a href="#map" data-toggle="tab" id="showmap">Location</a></li>
+					<li><a href="#map" data-toggle="tab" id="showmap">Location</a></li>					
                   </ul>
                 </li>
-              </ul>
+			  </ul>
+			  <span class="pull-right">{{theTime}} {{visitorCount}}</span>
             </div>
           </div>
-        </nav>
-
+        </nav>		
       </div>
     </div>
 	<!-- END AVBAR -->
